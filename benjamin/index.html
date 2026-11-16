@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Benjamin Charbit · CoreFlow</title>
+<meta name="description" content="Benjamin Charbit, CEO at CoreFlow. Liquid cooling for data centers, from design to maintenance.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0E2A4F">
+<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="preload" href="/assets/fonts/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face { font-family: "Inter"; font-weight: 400 700; font-display: swap; src: url("/assets/fonts/inter-latin.woff2") format("woff2"); }
+@font-face { font-family: "Montserrat"; font-weight: 700 900; font-display: swap; src: url("/assets/fonts/montserrat-latin.woff2") format("woff2"); }
+:root { --navy:#0E2A4F; --flow:#1565C0; --night:#050E1A; --ink:#0E2A4F; --ink2:#475A73; --line:#D9E2EE; --surface:#F4F7FB; }
+* { box-sizing: border-box; margin: 0; }
+body { font-family: Inter, system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); background: var(--surface); -webkit-font-smoothing: antialiased; }
+.hero { background: linear-gradient(90deg, var(--navy), var(--flow)); color: #fff; padding: calc(28px + env(safe-area-inset-top)) 20px 64px; }
+.wrap { max-width: 460px; margin: 0 auto; }
+.logo { height: 30px; display: block; }
+h1 { font-family: Montserrat, system-ui, sans-serif; font-weight: 800; font-size: 32px; line-height: 1.1; margin-top: 36px; letter-spacing: -.01em; }
+.role { margin-top: 8px; font-size: 17px; font-weight: 600; color: #CFE3FA; }
+.tag { margin-top: 14px; font-size: 14px; line-height: 1.45; color: #E3EEFB; }
+main { padding: 0 20px 40px; margin-top: -40px; }
+.card { background: #fff; border: 1px solid var(--line); border-radius: 18px; padding: 18px; box-shadow: 0 8px 28px rgba(14,42,79,.08); }
+.card + .card { margin-top: 16px; }
+.save { display: flex; align-items: center; justify-content: center; gap: 10px; width: 100%; padding: 16px; border-radius: 14px; background: var(--flow); color: #fff; font-weight: 700; font-size: 17px; text-decoration: none; }
+.save svg { width: 22px; height: 22px; }
+.acts { margin-top: 12px; display: grid; gap: 8px; }
+.act { display: flex; justify-content: space-between; align-items: center; padding: 13px 14px; border: 1px solid var(--line); border-radius: 12px; color: var(--ink); text-decoration: none; font-size: 15px; }
+.act .k { color: var(--ink2); font-size: 13px; font-weight: 600; }
+.act .v { font-weight: 600; }
+h2 { font-family: Montserrat, system-ui, sans-serif; font-size: 13px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--flow); }
+.op p { margin-top: 8px; color: var(--ink2); font-size: 14px; line-height: 1.45; }
+.op img { display: block; width: 100%; height: auto; margin-top: 14px; border-radius: 10px; border: 1px solid var(--line); }
+.ghost { display: block; margin-top: 14px; text-align: center; padding: 14px; border-radius: 14px; border: 1.5px solid var(--flow); color: var(--flow); font-weight: 700; text-decoration: none; }
+footer { text-align: center; color: var(--ink2); font-size: 13px; padding: 8px 20px calc(24px + env(safe-area-inset-bottom)); }
+footer a { color: var(--ink2); }
+</style>
+</head>
+<body>
+<header class="hero"><div class="wrap">
+  <img class="logo" src="/assets/img/coreflow-logo-white.svg" alt="CoreFlow">
+  <h1>Benjamin Charbit</h1>
+  <p class="role">CEO, CoreFlow</p>
+  <p class="tag">Liquid cooling for data centers, from design to maintenance.</p>
+</div></header>
+<main class="wrap">
+  <section class="card">
+    <a class="save" href="/benjamin/benjamin-coreflow.vcf" download="Benjamin Charbit - CoreFlow.vcf">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M19 8v6M22 11h-6"/></svg>
+      Add to contacts
+    </a>
+    <div class="acts">
+      <a class="act" href="tel:+33689229641"><span class="k">Mobile</span><span class="v">+33 6 89 22 96 41</span></a>
+      <a class="act" href="https://wa.me/33689229641"><span class="k">WhatsApp</span><span class="v">Message</span></a>
+      <a class="act" href="mailto:benjamin@coreflowdc.com"><span class="k">Email</span><span class="v">benjamin@coreflowdc.com</span></a>
+    </div>
+  </section>
+  <section class="card op">
+    <h2>One-pager</h2>
+    <p>What we do, for whom, and how: the full liquid cooling loop with a single accountable partner.</p>
+    <a href="/assets/docs/CoreFlow-one-pager.pdf"><img src="/assets/docs/one-pager-preview.jpg" width="910" height="1287" alt="CoreFlow one-pager" loading="lazy"></a>
+    <a class="ghost" href="/assets/docs/CoreFlow-one-pager.pdf">Open the one-pager (PDF)</a>
+  </section>
+</main>
+<footer>Great meeting you. <a href="/">coreflowdc.com</a></footer>
+</body>
+</html>

@@ -1,0 +1,1952 @@
+# CoreFlow
+
+> CoreFlow is a European service company that delivers liquid cooling for AI data centers from design to maintenance: the full loop between the facility water and the racks, CDUs included, with a single partner accountable end to end.
+
+Key facts: CoreFlow is a service team, not a product vendor, and is independent of cooling manufacturers. It designs or reviews the liquid cooling loop in 3D BIM, supplies and installs CDUs, stainless pipework, insulation, pre-assembled manifolds and sensors, flushes, pressure-tests and commissions the loop, hands over a full quality dossier (joint-by-joint traceability, test reports, as-built drawings), then monitors and maintains the loop for the life of the system. The primary loop is an optional part of the scope. Customers: AI clouds, enterprise data centers, and cooling manufacturers who need a local second line for maintenance. CoreFlow was founded in 2026 by Benjamin Charbit, is based in Paris, France, and works across Europe. Contact: contact@coreflowdc.com.
+
+## Pages in English
+
+- [CoreFlow | Liquid cooling for European AI data centers](https://www.coreflowdc.com/): CoreFlow delivers liquid cooling for European AI data centers from design to maintenance: the full loop from facility water to racks, CDUs included.
+- [Liquid cooling services for data centers | CoreFlow](https://www.coreflowdc.com/services/): Design, supply and installation, commissioning, monitoring and maintenance of data center liquid cooling loops, CDUs included. One accountable partner.
+- [Liquid cooling design and design review | CoreFlow](https://www.coreflowdc.com/services/design/): CoreFlow designs data center liquid cooling loops in 3D BIM: CDU selection and redundancy, routing, hydraulic sizing, instrumentation. Or reviews your design.
+- [CDU and liquid cooling pipework installation | CoreFlow](https://www.coreflowdc.com/services/installation/): CoreFlow supplies and installs CDUs, stainless pipework, insulation, pre-assembled manifolds and sensors for data center liquid cooling, including on live sites.
+- [Liquid cooling flushing and commissioning | CoreFlow](https://www.coreflowdc.com/services/commissioning/): Pressure testing, staged flushing, disinfection, filling and lab analysis of data center liquid cooling loops, with pass or fail criteria and a full handover.
+- [Liquid cooling monitoring and maintenance | CoreFlow](https://www.coreflowdc.com/services/maintenance/): Monitoring of temperature, pressure, flow and leaks, preventive maintenance, water analysis and on-call support for data center liquid cooling loops in Europe.
+- [About CoreFlow | Liquid cooling service team in Europe](https://www.coreflowdc.com/about/): CoreFlow is a European service company founded in 2026 by Benjamin Charbit. An independent team that designs, installs, commissions and maintains liquid cooling.
+- [Liquid cooling FAQ for data centers | CoreFlow](https://www.coreflowdc.com/faq/): Answers about CoreFlow and data center liquid cooling: scope, CDUs, design, installation on live sites, flushing, commissioning, handover and maintenance.
+- [Data center liquid cooling glossary | CoreFlow](https://www.coreflowdc.com/glossary/): Plain definitions of data center liquid cooling terms: CDU, direct liquid cooling, cold plate, manifold, flushing, pressure test, PG25, commissioning and more.
+- [Contact CoreFlow | Liquid cooling for data centers](https://www.coreflowdc.com/contact/): Contact CoreFlow about a data center liquid cooling project in Europe: design, installation, commissioning or maintenance. What we need to prepare a quote.
+
+## Pages en français
+
+- [CoreFlow | Liquid cooling des data centers IA en Europe](https://www.coreflowdc.com/fr/): CoreFlow prend en charge le liquid cooling des data centers européens, du design à la maintenance : toute la boucle jusqu'aux baies, CDU comprises.
+- [Services de liquid cooling pour data centers | CoreFlow](https://www.coreflowdc.com/fr/services/): Design, fourniture et installation, mise en service, monitoring et maintenance du refroidissement liquide des data centers, CDU comprises. Un seul partenaire.
+- [Design de liquid cooling et revue de design | CoreFlow](https://www.coreflowdc.com/fr/services/conception/): CoreFlow conçoit les boucles de refroidissement liquide des data centers en BIM 3D : choix et redondance des CDU, tracé, dimensionnement, instrumentation.
+- [Installation de CDU et de tuyauterie liquid cooling | CoreFlow](https://www.coreflowdc.com/fr/services/installation/): CoreFlow fournit et installe les CDU, la tuyauterie inox, le calorifuge, les manifolds pré-assemblés et les capteurs du refroidissement liquide des data centers.
+- [Rinçage et mise en service du liquid cooling | CoreFlow](https://www.coreflowdc.com/fr/services/mise-en-service/): Essai de pression, nettoyage, rinçage étagé, désinfection, remplissage et analyse des boucles de refroidissement liquide, avec critères pass ou fail et handover.
+- [Monitoring et maintenance du liquid cooling | CoreFlow](https://www.coreflowdc.com/fr/services/maintenance/): Monitoring de la température, de la pression, du débit et des fuites, préventif, analyses d'eau et astreinte pour le refroidissement liquide des data centers.
+- [À propos de CoreFlow | Équipe de services liquid cooling](https://www.coreflowdc.com/fr/a-propos/): CoreFlow est une société de services européenne fondée en 2026 par Benjamin Charbit : une équipe indépendante qui conçoit, installe et maintient le liquid cooling.
+- [FAQ liquid cooling des data centers | CoreFlow](https://www.coreflowdc.com/fr/faq/): Réponses sur CoreFlow et le refroidissement liquide des data centers : périmètre, CDU, design, sites en exploitation, rinçage, mise en service, maintenance.
+- [Glossaire du liquid cooling des data centers | CoreFlow](https://www.coreflowdc.com/fr/glossaire/): Définitions simples du refroidissement liquide des data centers : CDU, direct liquid cooling, cold plate, manifold, rinçage, essai de pression, PG25.
+- [Contacter CoreFlow | Liquid cooling des data centers](https://www.coreflowdc.com/fr/contact/): Contactez CoreFlow pour un projet de refroidissement liquide de data center en Europe : design, installation, mise en service ou maintenance.
+
+
+---
+
+# Liquid cooling for European AI data centers, from design to maintenance.
+
+URL: https://www.coreflowdc.com/
+Language: en
+
+Design · Installation · Commissioning · Maintenance
+Liquid cooling for European AI data centers, from design to maintenance.
+
+One partner accountable for the full loop, from the facility water to the racks, CDUs included.
+
+Who we are
+
+## A service team, not a product vendor.
+
+CoreFlow is independent of cooling manufacturers. We work on your design or on one we build with you.
+
+A leak or a fluid-quality issue means downtime and damaged GPUs, on racks worth several million dollars each. That is why a single team stays accountable from the first drawing to years of operation: we design or review the loop, supply and install it, flush, pressure-test and commission it, then monitor and maintain it.
+
+- Independent of cooling manufacturers: We select CDUs and components for your project, not for a catalogue.
+
+- The same written procedures from one site to the next: Across Europe, every project follows the same methods and acceptance criteria.
+
+- One accountable team, not a chain of subcontractors: Design, installation, commissioning and maintenance answer to the same people.
+
+What we deliver
+
+## The whole chain, in 5 stages.
+
+Entrust us with the full loop or with a single stage. Each stage ends with documents you can check.
+
+### Design
+
+3D BIM model, CDU selection and redundancy, routing, sizing, instrumentation.
+
+### Supply and install
+
+CDUs, stainless pipework, insulation, pre-assembled manifolds and sensors.
+
+### Commission
+
+Flushing, disinfection, pressure testing, commissioning of the loop.
+
+### Hand over
+
+Joint-by-joint traceability, test reports, as-built drawings.
+
+### Monitor, maintain
+
+Monitoring of temperature, pressure, flow and leaks. Preventive maintenance, water analysis, on-call.
+
+Our scope
+
+## The full loop between the facility water and the racks.
+
+CDUs are part of our scope, supplied and installed. We can also take on the primary loop, so that you deal with a single counterpart.
+
+Optional
+
+### Primary loop
+
+The facility water side, on request.
+
+CoreFlow scope
+
+### CDUs
+
+In-row or at the demarcation point, supplied and installed.
+
+### Pipework and insulation
+
+Stainless pipework, pre-assembled manifolds, sensors.
+
+### Rack connection
+
+At each rack, ready for the hardware.
+
+When to bring us in
+
+## As early as possible.
+
+We plan backwards from your hardware delivery date, so the loop is ready when the racks arrive.
+
+### No liquid design yet
+
+We design the loop in 3D BIM and deliver it end to end.
+
+### Design already fixed
+
+We step in on execution alone, from installation to commissioning and handover.
+
+### Existing building
+
+Extensions and air-to-liquid conversions, on a site that stays in operation.
+
+Our commitments
+
+## What we commit to, with evidence.
+
+Every commitment is backed by a record you receive at handover, not by a statement.
+
+- Leak-tightness of the loop: Proven by a recorded pressure test.
+
+- Conformity to the approved design: Checked joint by joint.
+
+- Workmanship of pipework and valves: Every joint traced.
+
+- Instrumentation and acceptance tests: On a pass or fail basis.
+
+- Water quality at handover: Backed by a dated analysis.
+
+Our know-how
+
+## Hyperscale cooling experience, applied to your loop.
+
+Our team comes from the cooling teams of a European hyperscaler, where it designed, built, converted and maintained cooling systems at scale.
+
+### Over 50 cooling projects
+
+New builds, retrofits and air-to-liquid conversions, including 3 direct liquid cooling deployments in 2025 and 2026.
+
+### Water quality since 2012
+
+Water treatment engineering, the discipline that keeps a liquid loop clean and in specification for years.
+
+### Standards we wrote
+
+The site maintenance and water quality standards of a European hyperscaler were written by our team.
+
+Questions
+
+## In short.
+
+### What does CoreFlow do?
+
+CoreFlow delivers liquid cooling for European data centers from design to maintenance. We design or review the loop in 3D BIM, supply and install the CDUs, pipework, insulation, pre-assembled manifolds and sensors, flush, pressure-test and commission the loop, then monitor and maintain it for the life of the system.
+
+### Which part of the cooling system does CoreFlow cover?
+
+The full loop between the facility water and the racks, CDUs included. The primary loop is optional: we can take it on so that the client deals with a single counterpart.
+
+### Who does CoreFlow work for?
+
+AI clouds and enterprise data centers, and cooling manufacturers who need a local second line for maintenance.
+
+## Planning a liquid-cooled deployment?
+
+Tell us about your hardware delivery date and your site. We come back with a scope, a schedule and a price.
+
+---
+
+# Liquid cooling services, from design to maintenance
+
+URL: https://www.coreflowdc.com/services/
+Language: en
+
+CoreFlow covers the whole chain of a data center liquid cooling loop: design, supply and installation, commissioning and handover, monitoring and maintenance. Entrust us with all of it, or with a single stage.
+
+## 4 services, 1 accountable team.
+
+The stages follow each other without a handoff between companies: the people who design the loop are the ones who commission it and maintain it.
+
+### Design and design review
+
+3D BIM model, CDU selection and redundancy, routing, sizing and instrumentation. Or a review of the design you already have.
+
+### Supply and installation
+
+CDUs, stainless pipework, insulation, pre-assembled manifolds and sensors, including in data halls that stay in operation.
+
+### Commissioning and handover
+
+Pressure testing, flushing, disinfection, filling and analysis, then a full quality dossier: traceability, test reports, as-built drawings.
+
+### Monitoring and maintenance
+
+Monitoring of temperature, pressure, flow and leaks. Preventive maintenance, water analysis and on-call support.
+
+Scope
+
+## What is in our scope, element by element.
+
+Our scope is the full loop between the facility water and the racks, CDUs included.
+
+Element | What we do | Status | 
+
+CDUs | Selection and redundancy, supply, installation and commissioning, in-row or at the demarcation point. | Included | 
+
+Pipework | Stainless pipework between the CDUs and the racks, supports and valves. | Included | 
+
+Insulation | Insulation of the pipework, to your specifications. | Included | 
+
+Manifolds | Pre-assembled manifolds and connection at each rack. | Included | 
+
+Sensors and leak detection | Temperature, pressure, flow and leak detection, reported to your BMS. | Included | 
+
+Primary loop | The facility water side, taken on request so that you deal with a single counterpart. | Optional | 
+
+IT hardware in the rack | Servers and cold plates stay with the hardware manufacturer or the integrator. We connect to them and commission the loop to their requirements. | Not in scope | 
+
+Who we work for
+
+## 3 types of clients.
+
+### AI clouds
+
+GPU clusters to bring online on a fixed date, in your own data center or in colocation. We plan backwards from the hardware delivery date.
+
+### Enterprise data centers
+
+A first liquid-cooled room, an extension or an air-to-liquid conversion, on a site that stays in operation.
+
+### Cooling manufacturers
+
+A local second line for the maintenance of your installed equipment: preventive maintenance, water analysis and on-call support.
+
+Ways to work with us
+
+## 3 starting points.
+
+### No liquid design yet
+
+We design the loop in 3D BIM and deliver it end to end, from the first drawing to maintenance.
+
+### Design already fixed
+
+We step in on execution alone, from installation to commissioning and handover.
+
+### Existing building
+
+Extensions and air-to-liquid conversions, with methods written for a live site.
+
+## Not sure where your project starts?
+
+Send us what you have: a rack count, a delivery date, a floor plan. We tell you what we can take on and what we need to quote.
+
+---
+
+# Liquid cooling design and design review
+
+URL: https://www.coreflowdc.com/services/design/
+Language: en
+
+We design the loop between the facility water and the racks in 3D BIM, or we review the design you already have, before anything is built.
+
+## What the design covers.
+
+A liquid cooling loop is decided on paper long before the first pipe is installed: the choice of CDUs, the route through the room, the diameters, the position of every sensor. We come in as early as possible, because that is where delays and rework are avoided.
+
+- CDU selection and redundancy: Type, capacity and redundancy scheme, in-row or at the demarcation point, and their integration in the room.
+
+- Routing: The path of the pipework in the room, under a raised floor or overhead, around existing equipment.
+
+- Hydraulic sizing: Hydraulic calculations and balancing, pipe diameters, expansion vessels.
+
+- Instrumentation: Temperature, pressure, flow and leak detection: what is measured, where, and how it is reported.
+
+- Drawings and model: P&ID, 3D BIM model and isometric drawings.
+
+## 2 ways to use our design team.
+
+### Full design
+
+You have a hardware order and a room, but no liquid design yet. We design the loop in 3D BIM, from the CDUs to the connection of each rack, and we can then deliver it end to end.
+
+### Design review
+
+Your design exists, drawn by your engineering office or by a manufacturer. We check sizing, routing and instrumentation, and whether it can be built and commissioned as drawn, before work starts.
+
+## Planned backwards from the hardware delivery date.
+
+The racks arrive on a date that does not move. Design is often on the critical path of a liquid-cooled deployment, so we start from that date and work backwards: design, procurement, installation, commissioning.
+
+The 3D model and the calculation notes are validated before work begins. The result is fewer surprises and less rework on site.
+
+### What we need to start
+
+- Number of racks and power per rack, in kW
+
+- Temperatures and delta T, from the facility and from the hardware manufacturer
+
+- CDU configuration and type of redundancy
+
+- Room drawings and distances
+
+- Raised floor or overhead distribution
+
+- Specified fluid and manufacturer requirements
+
+## Questions about design.
+
+### Can CoreFlow work from a design made by someone else?
+
+Yes. When the design is already fixed, we review it, then step in on execution alone: installation, commissioning and handover. The review checks sizing, routing and instrumentation before work starts.
+
+### What does a liquid cooling design deliver?
+
+A P&ID, hydraulic calculations and balancing, the routing of the pipework, a 3D BIM model with isometric drawings, the selection and redundancy of the CDUs, and the instrumentation plan for temperature, pressure, flow and leak detection.
+
+### Why design in 3D BIM?
+
+A 3D BIM model places the loop in the real room, with the racks, the raised floor or the ceiling and the existing equipment. Clashes are found on screen and not on site, and the same model is updated into the as-built drawings handed over at the end of the project.
+
+## Have a design to build, or to review?
+
+Send us your rack count, your delivery date and your room drawings.
+
+---
+
+# CDU and pipework supply and installation
+
+URL: https://www.coreflowdc.com/services/installation/
+Language: en
+
+We supply and install the CDUs, the stainless pipework, the insulation, the pre-assembled manifolds and the sensors, including in data halls that stay in operation.
+
+## What we supply and install.
+
+Everything between the facility water and the racks, as one package and under one responsibility.
+
+### CDUs
+
+Supplied and installed, in-row or at the demarcation point. We are independent of cooling manufacturers and select the units for your project.
+
+### Stainless pipework
+
+316L stainless steel, press-fit or welded depending on the site, with supports and valves.
+
+### Insulation
+
+Insulation of the pipework, to your specifications.
+
+### Pre-assembled manifolds
+
+Manifolds prepared outside the data hall and delivered ready to install, to reduce the time spent in the room.
+
+### Sensors and leak detection
+
+Temperature, pressure, flow and leak detection, installed with the pipework.
+
+### Rack connection
+
+The connection at each rack, ready for the hardware when it arrives.
+
+Live sites
+
+## Working in a data hall that stays in operation.
+
+Many liquid cooling projects are extensions or air-to-liquid conversions in a room where servers are already running. The method matters as much as the pipework.
+
+- A method of procedure for each intervention: Each MOP is integrated in your change management process.
+
+- A joining method suited to the site: Press-fit in sensitive areas, qualified welding outside the data hall.
+
+- Leak risk under control: Drip trays, zoned leak detection and isolation rack by rack. The emergency procedure for a leak is tested before the loop is filled.
+
+- Qualified people: Stainless steel pipefitters and welders. Welder qualifications to ISO 9606-1 and welding procedure qualifications are provided before work starts.
+
+## Every joint traced.
+
+Installation produces evidence as it goes. Each joint is identified and recorded, so that the conformity of the loop to the approved design can be checked joint by joint.
+
+These records feed the quality dossier you receive at handover, together with the test reports and the as-built drawings.
+
+### What we need to plan the work
+
+- Room drawings and distances
+
+- Raised floor or overhead distribution
+
+- Access rules, MOP and change management process
+
+- Hardware delivery date
+
+- Design of the loop, if it already exists
+
+## Questions about installation.
+
+### Does CoreFlow supply the CDUs?
+
+Yes. CDUs are part of our scope: we select them with you, supply them and install them, in-row or at the demarcation point. CoreFlow is a service team, independent of cooling manufacturers.
+
+### Can the work be done while the data center is running?
+
+Yes. Extensions and air-to-liquid conversions are done on sites that stay in operation, with a method of procedure for each intervention, integrated in the operator's change management, and with leak risk controlled by drip trays, zoned detection and isolation rack by rack.
+
+### Which materials and joining methods does CoreFlow use?
+
+316L stainless steel pipework, press-fit or welded depending on the site. Press-fit is preferred in sensitive areas, and qualified welding is done outside the data hall. Manifolds are pre-assembled before they enter the room.
+
+## An installation to plan?
+
+Tell us about the room, the racks and the date. We come back with a scope, a schedule and a price.
+
+---
+
+# Flushing, pressure testing and commissioning
+
+URL: https://www.coreflowdc.com/services/commissioning/
+Language: en
+
+Before a single rack is connected, the loop is pressure-tested, cleaned, flushed, disinfected, filled and analysed, against pass or fail acceptance criteria.
+
+## Why commissioning decides the life of the hardware.
+
+In direct liquid cooling, the coolant flows through cold plates with very fine channels, mounted directly on the processors. Particles left by the installation, the wrong chemistry or bacterial growth can clog or corrode them.
+
+Server manufacturers therefore set requirements on the cleanliness and chemistry of the coolant. A loop that does not meet them puts the hardware, and its warranty, at risk. Commissioning is the stage where this is proven, in writing, before the racks are connected.
+
+### Acceptance criteria, pass or fail
+
+- Particles: The 5 µm filter is clean at the end of the cycle.
+
+- Chemistry: pH, conductivity, glycol and inhibitor within the manufacturer's thresholds.
+
+- Microbiology: Bacterial count below the manufacturer's threshold.
+
+- Gas: High points vented, loop degassed.
+
+Our protocol
+
+## Flushing, disinfection, filling: 6 steps.
+
+The loop is first proven leak-tight by a recorded hydraulic pressure test. Then:
+
+### Preparation
+
+Racks and CDUs are isolated. Flushing connections and a mobile skid are installed.
+
+### Cleaning
+
+Chemical degreasing, following your procedure or ours.
+
+### Flushing
+
+Section by section, in stages from 100 to 50 to 5 µm, above the nominal flow rate.
+
+### Disinfection
+
+Biocide with a controlled contact time, then a final rinse.
+
+### Filling
+
+Premixed coolant such as PG25, filled from the low point, then venting and degassing.
+
+### Analysis
+
+Laboratory analysis before the racks are connected, and a signed report.
+
+Commissioning levels
+
+## From L1 to L5.
+
+Data center commissioning is usually organised in 5 levels. We take the loop through all of them, from the checks on the equipment before it ships to the integrated test of the loop with the rest of the site.
+
+Level | What is checked | 
+
+L1 | Factory tests of the equipment, before it ships. | 
+
+L2 | Delivery and installation checks on site. | 
+
+L3 | Start-up of each piece of equipment. | 
+
+L4 | Functional performance tests of each system. | 
+
+L5 | Integrated systems test, with the rest of the site. | 
+
+Handover
+
+## What you receive at the end of the project.
+
+Every project closes with a full handover, so that the operator knows exactly what it is taking over, and so that every commitment can be checked against a record.
+
+- Joint-by-joint traceability: Each joint identified, with who made it, when, and the result.
+
+- Test reports: The recorded pressure test, the flushing results and the acceptance tests of the instrumentation.
+
+- A dated water analysis: The quality of the fluid at handover, from a laboratory.
+
+- As-built drawings: The loop as it was really built, not as it was first drawn.
+
+- Operating procedures: Standard and emergency operating procedures, handed over with the loop.
+
+## Questions about commissioning.
+
+### How is a liquid cooling loop flushed before start-up?
+
+The racks and CDUs are isolated, the loop is chemically degreased, then flushed section by section through progressively finer filters, from 100 to 50 to 5 µm, at a flow above the nominal rate. It is then disinfected with a biocide, rinsed, filled with premixed coolant from the low point, vented and degassed. A laboratory analysis is done before the racks are connected.
+
+### Why is flushing necessary on a new loop?
+
+A newly installed loop contains particles, grease and residues from the installation. In direct liquid cooling, the coolant passes through cold plates with very fine channels: particles can clog them, and poor chemistry can corrode them. Flushing, disinfection and analysis prove that the fluid meets the hardware manufacturer's requirements before the racks are connected.
+
+### What is in the handover dossier?
+
+Joint-by-joint traceability, the reports of the pressure test and of the acceptance tests, a dated water analysis, the as-built drawings and the operating procedures.
+
+## A loop to commission?
+
+We can commission a loop we installed, or step in on a design that is already fixed.
+
+---
+
+# Monitoring and maintenance of liquid cooling loops
+
+URL: https://www.coreflowdc.com/services/maintenance/
+Language: en
+
+After go-live, we monitor temperature, pressure, flow and leaks, and we maintain the loop for the life of the system: preventive maintenance, water analysis and on-call support.
+
+## A loop is not finished on the day it starts.
+
+A closed loop changes over time. The corrosion inhibitor is consumed, warm water favours bacterial growth, filters load up, air collects at high points. None of this is visible from the data hall until a temperature rises or a flow drops.
+
+Monitoring and maintenance keep the loop in the state it had at handover, and keep the proof of it.
+
+### What we monitor
+
+- Temperature, pressure and flow: Reported to your BMS.
+
+- Leaks: Zoned leak detection, with isolation rack by rack.
+
+- Fluid chemistry: Followed over time against your thresholds and the manufacturer's.
+
+Maintenance contract
+
+## 3 building blocks, to combine.
+
+### Preventive maintenance
+
+Pressure drop across filters, air venting, joints and supports, calibration of sensors.
+
+### Water analysis
+
+pH, conductivity, glycol and inhibitor concentration, bacterial count, against your thresholds and the hardware manufacturer's.
+
+### On-call support
+
+A response time fixed in the contract. For a leak or a hose damaged during handling: lockout, repair and a traced refill. A stock of spare parts is sized with you.
+
+## For operators, and for cooling manufacturers.
+
+### Directly for the operator
+
+AI clouds and enterprise data centers can entrust us with the loop after go-live. On a loop we delivered, the team that maintains it knows how it was designed, built and commissioned.
+
+### As the manufacturer's local second line
+
+Cooling manufacturers can rely on us as a local partner for the maintenance of their installed equipment in Europe.
+
+## Questions about maintenance.
+
+### What does liquid cooling maintenance include?
+
+3 building blocks that can be combined: preventive maintenance of the loop (pressure drop across filters, air venting, joints and supports, sensor calibration), water analysis (pH, conductivity, glycol and inhibitor concentration, bacterial count) and on-call support with a response time fixed in the contract.
+
+### Why does the coolant need to be analysed over time?
+
+In a closed loop, the corrosion inhibitor is consumed and warm water favours bacterial growth. Regular analysis of pH, conductivity, glycol and inhibitor concentration and bacterial count shows drift early, before it damages the cold plates or reduces the flow.
+
+### What happens if there is a leak?
+
+The on-call team intervenes within the response time fixed in the contract: the affected section is locked out, repaired, then refilled, and the refill is traced. A stock of spare parts is sized with the client in advance.
+
+## A loop to keep in specification?
+
+Tell us about your installation and your service levels. We build the contract from the 3 building blocks.
+
+---
+
+# A liquid cooling service team, independent of manufacturers
+
+URL: https://www.coreflowdc.com/about/
+Language: en
+
+CoreFlow was founded in 2026 to do one thing: deliver the liquid cooling loop of European data centers from design to maintenance, with a single partner accountable end to end.
+
+## Why CoreFlow exists.
+
+The latest generations of AI racks draw more than 100 kW each and can no longer be cooled with air. Liquid cooling has become a hardware requirement, and every new GPU cluster comes with a loop of pipework, CDUs and manifolds that has to be designed, built, cleaned and kept in specification for years.
+
+This loop sits between several trades. The facility delivers its water, the hardware manufacturer sets its requirements, and the work in between is split across companies. Yet a leak or a fluid-quality issue means downtime and damaged GPUs, on racks worth several million dollars each.
+
+CoreFlow is a service company built for that loop. We come in as early as possible, with the design or its review. We supply and install the CDUs, the pipework, the insulation, the pre-assembled manifolds and the sensors. We flush, disinfect, pressure-test and commission the loop. Then we monitor and maintain it.
+
+Our first projects are in preparation.
+
+How we work
+
+## 3 principles.
+
+### One accountable team
+
+Not a chain of subcontractors. Design, installation, commissioning and maintenance answer to the same people, from the first drawing to years of operation.
+
+### The same written procedures
+
+From one site to the next, across Europe: the same methods, the same acceptance criteria, the same handover dossier.
+
+### Evidence, not statements
+
+A recorded pressure test, joint-by-joint traceability, a dated water analysis. What we commit to can be checked.
+
+Our know-how
+
+## Hyperscale cooling experience, applied to your loop.
+
+Our team comes from the cooling teams of a European hyperscaler, where it designed, built, converted and maintained cooling systems at scale.
+
+### Over 50 cooling projects
+
+New builds, retrofits and air-to-liquid conversions, including 3 direct liquid cooling deployments in 2025 and 2026.
+
+### Water quality since 2012
+
+Water treatment engineering, the discipline that keeps a liquid loop clean and in specification for years.
+
+### Standards we wrote
+
+The site maintenance and water quality standards of a European hyperscaler were written by our team.
+
+At a glance
+
+## CoreFlow in 3 facts.
+
+2026Founded in Paris, France, by Benjamin Charbit.
+
+EuropeProjects across Europe, with the same written procedures on every site.
+
+IndependentA service team, not tied to any cooling manufacturer.
+
+## Want to talk about a project?
+
+We are glad to discuss a deployment at any stage, from the first idea to a loop already in operation.
+
+---
+
+# Frequently asked questions
+
+URL: https://www.coreflowdc.com/faq/
+Language: en
+
+Direct answers about what CoreFlow does, what is in our scope, and how a liquid cooling loop is designed, installed, commissioned and maintained.
+
+## About CoreFlow
+
+### What does CoreFlow do?
+
+CoreFlow delivers liquid cooling for European data centers from design to maintenance: the full loop between the facility water and the racks, CDUs included, with a single partner accountable end to end. We design or review the loop in 3D BIM, supply and install the CDUs, pre-assembled manifolds, pipework and insulation, then flush, pressure-test and commission it with a full quality dossier, and monitor and maintain it for the life of the system.
+
+### Is CoreFlow a cooling equipment manufacturer?
+
+No. CoreFlow is a service team, not a product vendor, and is independent of cooling manufacturers. We supply and install CDUs and components as part of a project, selected for that project.
+
+### Who does CoreFlow work for?
+
+AI clouds and enterprise data centers, directly. And cooling manufacturers, as their local second line for maintenance.
+
+### Where does CoreFlow operate?
+
+CoreFlow is based in Paris, France, and works on data center projects across Europe, with the same written procedures from one site to the next.
+
+### Who founded CoreFlow?
+
+CoreFlow was founded in 2026 by Benjamin Charbit, who leads the company as Founder and CEO. Its first projects are in preparation.
+
+## Scope
+
+### Which part of the cooling system does CoreFlow cover?
+
+The full loop between the facility water and the racks, CDUs included: CDUs in-row or at the demarcation point, stainless pipework, insulation, pre-assembled manifolds, sensors and the connection at each rack. See the scope element by element.
+
+### Does CoreFlow take on the primary loop?
+
+Yes, as an option. We can take on the primary loop, on the facility water side, so that the client deals with a single counterpart.
+
+### Does CoreFlow supply the CDUs?
+
+Yes. We select the CDUs and their redundancy with the client, then supply, install and commission them.
+
+### Does CoreFlow work on servers and cold plates?
+
+No. Servers and cold plates stay with the hardware manufacturer or the integrator. We connect the loop at each rack and commission it to the hardware manufacturer's requirements on cleanliness and fluid chemistry.
+
+## Working with CoreFlow
+
+### When should we bring CoreFlow in?
+
+As early as possible. We plan backwards from the hardware delivery date, so that the loop is ready when the racks arrive. Design is often on the critical path of a liquid-cooled deployment.
+
+### Can CoreFlow work from an existing design?
+
+Yes. When the design is already fixed, we step in on execution alone, from installation to commissioning and handover, after a review of the design.
+
+### Can CoreFlow work in a data center that stays in operation?
+
+Yes. Extensions and air-to-liquid conversions are done on live sites, with a method of procedure for each intervention, integrated in the operator's change management, and with leak risk controlled by drip trays, zoned detection and isolation rack by rack.
+
+### What does CoreFlow need to prepare a quote?
+
+The number of racks and the power per rack, the temperatures and delta T of the facility and of the hardware manufacturer, the CDU configuration and redundancy, the room drawings and distances, the access rules, and the specified fluid with the manufacturer's requirements. The full list is on the contact page.
+
+## Commissioning and quality
+
+### How is a liquid cooling loop commissioned?
+
+The loop is proven leak-tight by a recorded pressure test, then chemically cleaned, flushed section by section through filters from 100 to 50 to 5 µm, disinfected, filled with premixed coolant, vented and degassed. A laboratory analysis is done before the racks are connected. Acceptance is on a pass or fail basis. See commissioning in detail.
+
+### What does CoreFlow commit to?
+
+The leak-tightness of the loop, proven by a recorded pressure test. Conformity to the approved design, joint by joint. The workmanship of pipework and valves, with every joint traced. Instrumentation and acceptance tests on a pass or fail basis. And water quality at handover, backed by a dated analysis.
+
+### What do we receive at handover?
+
+A full quality dossier: joint-by-joint traceability, test reports, a dated water analysis, as-built drawings and the operating procedures.
+
+## Maintenance
+
+### What does maintenance include?
+
+3 building blocks that can be combined: preventive maintenance of the loop, water analysis, and on-call support with a response time fixed in the contract. Temperature, pressure, flow and leaks are monitored and reported to the client's BMS.
+
+### Can CoreFlow maintain equipment on behalf of a cooling manufacturer?
+
+Yes. CoreFlow can act as the local second line of a cooling manufacturer for the maintenance of its installed equipment in Europe.
+
+Looking for a definition? See the liquid cooling glossary.
+
+## A question that is not here?
+
+Write to us. We answer questions about a project at any stage.
+
+---
+
+# Liquid cooling glossary
+
+URL: https://www.coreflowdc.com/glossary/
+Language: en
+
+The words used on a liquid cooling project, defined in plain language. From the cold plate on the processor to the water analysis at handover.
+
+- As-built drawings
+
+- BIM
+
+- Biocide
+
+- BMS
+
+- CDU
+
+- Cold plate
+
+- Commissioning
+
+- Corrosion inhibitor
+
+- Delta T
+
+- Demarcation point
+
+- Direct liquid cooling
+
+- Facility water system
+
+- Flushing
+
+- Handover dossier
+
+- In-row and in-rack CDU
+
+- Insulation
+
+- Leak detection
+
+- Manifold
+
+- MOP, SOP, EOP
+
+- P&ID
+
+- PG25
+
+- Pressure test
+
+- Primary and secondary loop
+
+- Quick disconnect
+
+- Technology cooling system
+
+- Water quality
+
+### As-built drawings
+
+Drawings updated at the end of a project to show the installation as it was really built, including every change made on site. They are part of the handover dossier and are the reference for operation and maintenance.
+
+### BIM Building information modelling
+
+A 3D model of a building and its equipment in which every object carries data, such as its diameter, material or reference. In liquid cooling, the loop is designed in 3D BIM inside the real room, so that clashes with racks, floors and existing equipment are found before installation.
+
+### Biocide
+
+A chemical that kills bacteria and other micro-organisms. A loop is disinfected with a biocide during commissioning, with a controlled contact time, because warm water favours bacterial growth that can clog filters and cold plates.
+
+### BMS Building management system
+
+The supervision system of a building, which collects the measurements of its technical equipment and raises alarms. The temperature, pressure, flow and leak sensors of a liquid cooling loop report to the BMS, sometimes alongside a DCIM, the tool that supervises the IT rooms.
+
+### CDU Coolant distribution unit
+
+The unit that separates the facility water from the loop that serves the IT equipment, and transfers heat from one to the other. A CDU contains a heat exchanger, pumps, filtration and controls. It regulates the flow, temperature and pressure of the coolant sent to the racks. See also in-row and in-rack CDU.
+
+### Cold plate
+
+A metal plate with very fine internal channels, mounted directly on a processor or another hot component. The coolant flows through the plate and carries the heat away. Because the channels are so fine, cold plates are sensitive to particles and to the chemistry of the fluid.
+
+### Commissioning
+
+The set of checks and tests that prove an installation works as designed before it enters service. In data centers it is usually organised in 5 levels, from L1 (factory tests) to L5 (integrated systems test). For a liquid cooling loop it includes the pressure test, cleaning, flushing, disinfection, filling and analysis of the fluid. See how CoreFlow commissions a loop.
+
+### Corrosion inhibitor
+
+An additive that protects the metals of the loop against corrosion. It is consumed over time, which is why its concentration is measured regularly during maintenance.
+
+### Delta T ΔT
+
+The difference between the return temperature and the supply temperature of the coolant. Together with the flow rate, it determines how much heat the loop removes. The facility and the hardware manufacturer each set their own temperature limits, and the design has to satisfy both.
+
+### Demarcation point
+
+The agreed physical boundary between what the data center operator provides and what the tenant or the IT side is responsible for. In liquid cooling it is often a CDU or a pair of valved connections on the facility water.
+
+### Direct liquid cooling DLC, direct-to-chip
+
+A cooling method in which a liquid is brought to cold plates mounted on the hottest components of a server, such as GPUs and CPUs. The liquid removes most of the heat, and air removes the rest. It is the method used for the latest generations of AI racks, which draw more than 100 kW each.
+
+### Facility water system FWS
+
+The water loop of the building, which brings cooling water from the plant (chillers, dry coolers or cooling towers) to the CDUs. The term comes from the ASHRAE liquid cooling guidelines.
+
+### Flushing
+
+The circulation of water through a new loop, at a flow above the nominal rate and through progressively finer filters, to remove the particles, grease and residues left by installation. Flushing is done before the racks are connected.
+
+### Handover dossier
+
+The set of documents given to the operator at the end of a project. At CoreFlow it contains joint-by-joint traceability, the test reports, a dated water analysis, the as-built drawings and the operating procedures.
+
+### In-row and in-rack CDU
+
+An in-row CDU is a cabinet placed in the row of racks, which serves several racks through pipework and manifolds. An in-rack CDU is installed inside a rack and serves that rack. Larger CDUs can also be placed at the edge of the room, at the demarcation point.
+
+### Insulation
+
+The layer that covers the pipework to prevent condensation on cold surfaces and to limit heat exchange with the room.
+
+### Leak detection
+
+Sensing cables or point sensors placed under the pipework, in drip trays and at the connections, which raise an alarm when they detect liquid. Detection is zoned so that a leak can be located and the affected section isolated.
+
+### Manifold
+
+A component that distributes the coolant from the pipework to several outlets and collects the return. Row manifolds serve the racks, and rack manifolds serve the servers. Manifolds can be pre-assembled before they enter the data hall.
+
+### MOP, SOP, EOP
+
+The 3 types of written procedures used in data centers. A method of procedure (MOP) describes a specific intervention step by step, and is approved through the operator's change management. A standard operating procedure (SOP) describes routine operation. An emergency operating procedure (EOP) describes what to do in an incident, such as a leak.
+
+### P&ID Piping and instrumentation diagram
+
+The diagram that shows every pipe, valve, pump and sensor of a loop and how they are connected. It is the reference document of the design.
+
+### PG25
+
+A water-based coolant that contains 25 % propylene glycol, with corrosion inhibitors and biocides. It is commonly specified by hardware manufacturers for direct liquid cooling loops, and is delivered premixed.
+
+### Pressure test
+
+A test in which the loop is pressurised above its operating pressure and held for a set time, while the pressure is recorded. A stable pressure proves that the loop is leak-tight before it is filled with coolant.
+
+### Primary and secondary loop
+
+In liquid cooling, the primary loop usually means the facility water side of the CDU, and the secondary loop the side that serves the racks. The meaning of these words varies from one company to another, so it is safer to describe the physical loop: from the facility water to the racks.
+
+### Quick disconnect
+
+A coupling that connects a server or a rack to a manifold and can be disconnected without draining the loop and with almost no spill. Its small internal passages make it sensitive to particles.
+
+### Technology cooling system TCS
+
+In the ASHRAE liquid cooling guidelines, the loop that carries the treated coolant between the CDU and the IT equipment. Depending on the position of the CDU, it runs across the room or stays inside a rack.
+
+### Water quality
+
+The set of parameters the coolant has to keep within limits: particles, pH, conductivity, glycol and inhibitor concentration, and bacterial count. The limits are set by the hardware manufacturer. Water quality is proven by a laboratory analysis at handover, then followed during maintenance.
+
+## From the definition to the project.
+
+See how these terms fit together in a real loop, from design to maintenance.
+
+---
+
+# Tell us about your project
+
+URL: https://www.coreflowdc.com/contact/
+Language: en
+
+A deployment to plan, a design to review, a loop to maintain: write to us with what you have.
+
+Write to us
+contact@coreflowdc.com
+
+Kevin Compagnon, Head of Sales, is your point of contact. We work in English and in French.
+
+CoreFlow, Paris, France. Projects across Europe.
+
+## How a project starts.
+
+### Confidentiality
+
+A signed agreement, so that we can receive your drawings.
+
+### Site visit
+
+Measurements, access, working rules.
+
+### Specifications and drawings
+
+Design of the pod, temperatures, fluid.
+
+### Offer
+
+Design, schedule, price and responsibilities.
+
+To prepare a quote
+
+## What we need from you.
+
+You do not need everything to start the conversation. This is the list we work through together.
+
+### Power and temperatures
+
+- Number of racks, kW per rack
+- Temperatures and delta T, from the facility and the hardware manufacturer
+- CDU configuration, type of redundancy
+
+### Layout
+
+- Room drawings and distances
+- Raised floor or overhead distribution
+- Access, MOP and change management
+
+### Fluid and operation
+
+- Specified fluid, manufacturer requirements
+- Your flushing procedure, if you have one
+- BMS, DCIM and quality tools
+
+---
+
+# Le liquid cooling des data centers IA européens, du design à la maintenance.
+
+URL: https://www.coreflowdc.com/fr/
+Language: fr
+
+Design · Installation · Mise en service · Maintenance
+Le liquid cooling des data centers IA européens, du design à la maintenance.
+
+Un seul partenaire responsable de toute la boucle, de l'eau du data center jusqu'aux baies, CDU comprises.
+
+Qui nous sommes
+
+## Une équipe de services, pas un vendeur de produits.
+
+CoreFlow est indépendant des fabricants de refroidissement. Nous travaillons sur votre design, ou sur celui que nous construisons avec vous.
+
+Une fuite ou un défaut de qualité du fluide, c'est un arrêt de production et des GPU endommagés, sur des baies qui valent chacune plusieurs millions de dollars. C'est pourquoi une seule équipe reste responsable du premier plan jusqu'aux années d'exploitation : nous concevons ou validons le design, nous fournissons et installons la boucle, nous la rinçons, l'éprouvons et la mettons en service, puis nous en assurons le monitoring et la maintenance.
+
+- Indépendants des fabricants de refroidissement: Nous choisissons les CDU et les composants pour votre projet, pas pour un catalogue.
+
+- Les mêmes procédures écrites d'un site à l'autre: Partout en Europe, chaque chantier suit les mêmes méthodes et les mêmes critères de réception.
+
+- Une seule équipe responsable, pas une chaîne de sous-traitants: Design, installation, mise en service et maintenance répondent aux mêmes personnes.
+
+Ce que nous livrons
+
+## Toute la chaîne, en 5 étapes.
+
+Confiez-nous toute la boucle ou une seule étape. Chaque étape se termine par des documents que vous pouvez vérifier.
+
+### Design
+
+Maquette BIM 3D, choix et redondance des CDU, tracé, dimensionnement, instrumentation.
+
+### Fourniture et installation
+
+CDU, tuyauterie inox, calorifuge, manifolds pré-assemblés et capteurs.
+
+### Mise en service
+
+Rinçage, désinfection, essais de pression, mise en service de la boucle.
+
+### Handover
+
+Traçabilité raccord par raccord, procès-verbaux d'essais, plans as-built.
+
+### Monitoring et maintenance
+
+Monitoring de la température, de la pression, du débit et des fuites. Préventif, analyses d'eau, astreinte.
+
+Notre périmètre
+
+## Toute la boucle entre l'eau du data center et les baies.
+
+Les CDU font partie de notre périmètre, fournies et installées. Nous pouvons aussi prendre le primaire, pour que vous n'ayez qu'un seul interlocuteur.
+
+En option
+
+### Le primaire
+
+Le côté eau du data center, à la demande.
+
+Périmètre CoreFlow
+
+### CDU
+
+En rangée ou en démarcation, fournies et installées.
+
+### Tuyauterie et calorifuge
+
+Tuyauterie inox, manifolds pré-assemblés, capteurs.
+
+### Raccordement des baies
+
+À chaque baie, prêt pour le matériel.
+
+Quand nous faire intervenir
+
+## Le plus tôt possible.
+
+Nous planifions à rebours depuis la date de livraison de votre matériel, pour que la boucle soit prête à l'arrivée des baies.
+
+### Pas encore de design liquide
+
+Nous concevons la boucle en BIM 3D et nous la livrons de bout en bout.
+
+### Design déjà arrêté
+
+Nous intervenons sur l'exécution seule, de l'installation à la mise en service et au handover.
+
+### Bâtiment existant
+
+Extensions et passages de l'air au liquide, sur un site qui reste en exploitation.
+
+Nos engagements
+
+## Ce que nous garantissons, preuves à l'appui.
+
+Chaque engagement s'appuie sur un enregistrement que vous recevez au handover, pas sur une déclaration.
+
+- L'étanchéité de la boucle: Prouvée par un essai de pression enregistré.
+
+- La conformité au design approuvé: Vérifiée raccord par raccord.
+
+- La qualité du montage et de la vannerie: Chaque raccord tracé.
+
+- L'instrumentation et les essais de réception: En pass ou fail.
+
+- La qualité d'eau à la réception: Par une analyse datée.
+
+Notre savoir-faire
+
+## L'expérience du cooling d'un hyperscaler, au service de votre boucle.
+
+Notre équipe vient des équipes cooling d'un hyperscaler européen, où elle a conçu, construit, converti et maintenu des systèmes de refroidissement à grande échelle.
+
+### Plus de 50 projets de cooling
+
+Construction neuve, rétrofit et passage de l'air au liquide, dont 3 déploiements de direct liquid cooling en 2025 et 2026.
+
+### La qualité d'eau depuis 2012
+
+L'ingénierie du traitement des eaux, la discipline qui garde une boucle liquide propre et dans ses spécifications pendant des années.
+
+### Des référentiels écrits par nous
+
+Le référentiel de maintenance et celui de la qualité d'eau des sites d'un hyperscaler européen ont été écrits par notre équipe.
+
+Questions
+
+## En bref.
+
+### Que fait CoreFlow ?
+
+CoreFlow prend en charge le liquid cooling des data centers européens du design à la maintenance. Nous concevons ou validons le design en BIM 3D, nous fournissons et installons les CDU, la tuyauterie, le calorifuge, les manifolds pré-assemblés et les capteurs, nous rinçons, éprouvons et mettons en service la boucle, puis nous en assurons le monitoring et la maintenance pendant toute sa durée de vie.
+
+### Quelle partie du refroidissement CoreFlow prend-il en charge ?
+
+Toute la boucle entre l'eau du data center et les baies, CDU comprises. Le primaire est en option : nous pouvons le prendre pour que le client n'ait qu'un seul interlocuteur.
+
+### Pour qui CoreFlow travaille-t-il ?
+
+Pour les clouds IA et les data centers d'entreprise, et pour les fabricants de refroidissement qui ont besoin d'un partenaire local de 2e rideau pour la maintenance.
+
+## Un déploiement en liquid cooling à préparer ?
+
+Parlez-nous de la date de livraison de votre matériel et de votre site. Nous revenons vers vous avec un périmètre, un planning et un prix.
+
+---
+
+# Le liquid cooling, du design à la maintenance
+
+URL: https://www.coreflowdc.com/fr/services/
+Language: fr
+
+CoreFlow couvre toute la chaîne d'une boucle de refroidissement liquide de data center : design, fourniture et installation, mise en service et handover, monitoring et maintenance. Confiez-nous l'ensemble, ou une seule étape.
+
+## 4 services, 1 seule équipe responsable.
+
+Les étapes s'enchaînent sans passage de relais entre sociétés : ceux qui conçoivent la boucle sont ceux qui la mettent en service et la maintiennent.
+
+### Design et revue de design
+
+Maquette BIM 3D, choix et redondance des CDU, tracé, dimensionnement et instrumentation. Ou la revue du design que vous avez déjà.
+
+### Fourniture et installation
+
+CDU, tuyauterie inox, calorifuge, manifolds pré-assemblés et capteurs, y compris dans des salles qui restent en exploitation.
+
+### Mise en service et handover
+
+Essai de pression, rinçage, désinfection, remplissage et analyse, puis un dossier qualité complet : traçabilité, procès-verbaux d'essais, plans as-built.
+
+### Monitoring et maintenance
+
+Monitoring de la température, de la pression, du débit et des fuites. Préventif, analyses d'eau et astreinte.
+
+Périmètre
+
+## Notre périmètre, élément par élément.
+
+Notre périmètre est toute la boucle entre l'eau du data center et les baies, CDU comprises.
+
+Élément | Ce que nous faisons | Statut | 
+
+CDU | Choix et redondance, fourniture, installation et mise en service, en rangée ou en démarcation. | Inclus | 
+
+Tuyauterie | Tuyauterie inox entre les CDU et les baies, supportage et vannerie. | Inclus | 
+
+Calorifuge | Calorifugeage de la tuyauterie, selon vos spécifications. | Inclus | 
+
+Manifolds | Manifolds pré-assemblés et raccordement à chaque baie. | Inclus | 
+
+Capteurs et détection de fuite | Température, pression, débit et détection de fuite, remontés à votre BMS. | Inclus | 
+
+Le primaire | Le côté eau du data center, pris à la demande pour que vous n'ayez qu'un seul interlocuteur. | En option | 
+
+Matériel IT dans la baie | Les serveurs et les cold plates restent au fabricant du matériel ou à l'intégrateur. Nous nous y raccordons et nous mettons la boucle en service selon leurs exigences. | Hors périmètre | 
+
+Pour qui nous travaillons
+
+## 3 types de clients.
+
+### Les clouds IA
+
+Des clusters GPU à mettre en production à date fixe, dans votre data center ou en colocation. Nous planifions à rebours depuis la date de livraison du matériel.
+
+### Les data centers d'entreprise
+
+Une première salle en liquid cooling, une extension ou un passage de l'air au liquide, sur un site qui reste en exploitation.
+
+### Les fabricants de refroidissement
+
+Un partenaire local de 2e rideau pour la maintenance de vos équipements installés : préventif, analyses d'eau et astreinte.
+
+Travailler avec nous
+
+## 3 points de départ.
+
+### Pas encore de design liquide
+
+Nous concevons la boucle en BIM 3D et nous la livrons de bout en bout, du premier plan à la maintenance.
+
+### Design déjà arrêté
+
+Nous intervenons sur l'exécution seule, de l'installation à la mise en service et au handover.
+
+### Bâtiment existant
+
+Extensions et passages de l'air au liquide, avec des méthodes écrites pour un site en exploitation.
+
+## Vous ne savez pas par où commence votre projet ?
+
+Envoyez-nous ce que vous avez : un nombre de baies, une date de livraison, un plan de salle. Nous vous disons ce que nous pouvons prendre en charge et ce qu'il nous faut pour chiffrer.
+
+---
+
+# Design de liquid cooling et revue de design
+
+URL: https://www.coreflowdc.com/fr/services/conception/
+Language: fr
+
+Nous concevons en BIM 3D la boucle entre l'eau du data center et les baies, ou nous validons le design que vous avez déjà, avant que rien ne soit construit.
+
+## Ce que couvre le design.
+
+Une boucle de liquid cooling se décide sur le papier, bien avant la pose du premier tube : le choix des CDU, le tracé dans la salle, les diamètres, la position de chaque capteur. Nous intervenons le plus en amont possible, parce que c'est là que s'évitent les retards et les reprises.
+
+- Choix et redondance des CDU: Type, puissance et schéma de redondance, en rangée ou en démarcation, et leur intégration dans la salle.
+
+- Tracé: Le cheminement de la tuyauterie dans la salle, en faux plancher ou en plafond, autour des équipements existants.
+
+- Dimensionnement hydraulique: Calculs hydrauliques et équilibrage, diamètres, vases d'expansion.
+
+- Instrumentation: Température, pression, débit et détection de fuite : ce qui est mesuré, où, et comment c'est remonté.
+
+- Plans et maquette: P&ID, maquette BIM 3D et isométriques.
+
+## 2 façons de faire appel à notre bureau d'études.
+
+### Design complet
+
+Vous avez une commande de matériel et une salle, mais pas encore de design liquide. Nous concevons la boucle en BIM 3D, des CDU jusqu'au raccordement de chaque baie, et nous pouvons ensuite la livrer de bout en bout.
+
+### Revue de design
+
+Votre design existe, établi par votre bureau d'études ou par un fabricant. Nous vérifions le dimensionnement, le tracé et l'instrumentation, et qu'il peut être construit et mis en service tel que dessiné, avant le début des travaux.
+
+## Un planning à rebours depuis la livraison du matériel.
+
+Les baies arrivent à une date qui ne bouge pas. Le design est souvent sur le chemin critique d'un déploiement en liquid cooling : nous partons donc de cette date et nous remontons le temps, du design aux approvisionnements, à l'installation et à la mise en service.
+
+La maquette 3D et les notes de calcul sont validées avant le chantier. Résultat : moins d'aléas et moins de reprises sur site.
+
+### Ce qu'il nous faut pour démarrer
+
+- Nombre de baies et puissance par baie, en kW
+
+- Températures et delta T, côté hébergeur et côté fabricant du matériel
+
+- Configuration des CDU et type de redondance
+
+- Plans de salle et distances
+
+- Distribution en faux plancher ou en plafond
+
+- Fluide spécifié et exigences du fabricant
+
+## Questions sur le design.
+
+### CoreFlow peut-il travailler à partir d'un design fait par un tiers ?
+
+Oui. Quand le design est déjà arrêté, nous le relisons, puis nous intervenons sur l'exécution seule : installation, mise en service et handover. La revue vérifie le dimensionnement, le tracé et l'instrumentation avant le début des travaux.
+
+### Que contient un design de liquid cooling ?
+
+Un P&ID, les calculs hydrauliques et l'équilibrage, le tracé de la tuyauterie, une maquette BIM 3D avec ses isométriques, le choix et la redondance des CDU, et le plan d'instrumentation pour la température, la pression, le débit et la détection de fuite.
+
+### Pourquoi concevoir en BIM 3D ?
+
+Une maquette BIM 3D place la boucle dans la salle réelle, avec les baies, le faux plancher ou le plafond et les équipements existants. Les conflits se voient à l'écran et non sur le chantier, et la même maquette est mise à jour pour produire les plans as-built remis à la fin du projet.
+
+## Un design à construire, ou à faire relire ?
+
+Envoyez-nous votre nombre de baies, votre date de livraison et vos plans de salle.
+
+---
+
+# Fourniture et installation des CDU et de la tuyauterie
+
+URL: https://www.coreflowdc.com/fr/services/installation/
+Language: fr
+
+Nous fournissons et installons les CDU, la tuyauterie inox, le calorifuge, les manifolds pré-assemblés et les capteurs, y compris dans des salles qui restent en exploitation.
+
+## Ce que nous fournissons et installons.
+
+Tout ce qui se trouve entre l'eau du data center et les baies, en un seul lot et sous une seule responsabilité.
+
+### CDU
+
+Fournies et installées, en rangée ou en démarcation. Nous sommes indépendants des fabricants de refroidissement et nous choisissons les unités pour votre projet.
+
+### Tuyauterie inox
+
+Inox 316L, serti ou soudé selon le site, avec supportage et vannerie.
+
+### Calorifuge
+
+Calorifugeage de la tuyauterie, selon vos spécifications.
+
+### Manifolds pré-assemblés
+
+Des manifolds préparés hors de la salle et livrés prêts à poser, pour réduire le temps passé en salle.
+
+### Capteurs et détection de fuite
+
+Température, pression, débit et détection de fuite, posés avec la tuyauterie.
+
+### Raccordement des baies
+
+Le raccordement à chaque baie, prêt pour le matériel à son arrivée.
+
+Sites en exploitation
+
+## Intervenir dans une salle qui reste en production.
+
+Beaucoup de projets de liquid cooling sont des extensions ou des passages de l'air au liquide, dans une salle où des serveurs tournent déjà. La méthode compte autant que la tuyauterie.
+
+- Un mode opératoire par intervention: Chaque MOP est intégré à votre processus de change management.
+
+- Un assemblage adapté au site: Sertissage en zone sensible, soudure qualifiée hors salle.
+
+- Un risque de fuite maîtrisé: Bacs de rétention, détection de fuite zonée et isolement baie par baie. La procédure d'urgence en cas de fuite est testée avant la mise en eau.
+
+- Des intervenants qualifiés: Tuyauteurs et soudeurs inox. Les qualifications de soudeur ISO 9606-1 et les qualifications de mode opératoire de soudage sont fournies avant l'intervention.
+
+## Chaque raccord tracé.
+
+L'installation produit ses preuves au fil de l'eau. Chaque raccord est identifié et enregistré, pour que la conformité de la boucle au design approuvé puisse être vérifiée raccord par raccord.
+
+Ces enregistrements alimentent le dossier qualité que vous recevez au handover, avec les procès-verbaux d'essais et les plans as-built.
+
+### Ce qu'il nous faut pour planifier le chantier
+
+- Plans de salle et distances
+
+- Distribution en faux plancher ou en plafond
+
+- Règles d'accès, MOP et processus de change management
+
+- Date de livraison du matériel
+
+- Design de la boucle, s'il existe déjà
+
+## Questions sur l'installation.
+
+### CoreFlow fournit-il les CDU ?
+
+Oui. Les CDU font partie de notre périmètre : nous les choisissons avec vous, nous les fournissons et nous les installons, en rangée ou en démarcation. CoreFlow est une équipe de services, indépendante des fabricants de refroidissement.
+
+### Les travaux peuvent-ils se faire pendant que le data center fonctionne ?
+
+Oui. Les extensions et les passages de l'air au liquide se font sur des sites qui restent en exploitation, avec un mode opératoire par intervention, intégré au change management de l'exploitant, et un risque de fuite maîtrisé par des bacs de rétention, une détection zonée et un isolement baie par baie.
+
+### Quels matériaux et quels assemblages CoreFlow utilise-t-il ?
+
+De la tuyauterie en inox 316L, sertie ou soudée selon le site. Le sertissage est privilégié en zone sensible, et la soudure qualifiée se fait hors de la salle. Les manifolds sont pré-assemblés avant d'entrer en salle.
+
+## Une installation à planifier ?
+
+Parlez-nous de la salle, des baies et de la date. Nous revenons vers vous avec un périmètre, un planning et un prix.
+
+---
+
+# Rinçage, essais de pression et mise en service
+
+URL: https://www.coreflowdc.com/fr/services/mise-en-service/
+Language: fr
+
+Avant le raccordement de la première baie, la boucle est éprouvée, nettoyée, rincée, désinfectée, remplie et analysée, selon des critères de réception en pass ou fail.
+
+## Pourquoi la mise en service décide de la vie du matériel.
+
+En direct liquid cooling, le fluide traverse des cold plates aux canaux très fins, montées directement sur les processeurs. Les particules laissées par le chantier, une mauvaise chimie ou un développement bactérien peuvent les boucher ou les corroder.
+
+Les fabricants de serveurs fixent donc des exigences sur la propreté et la chimie du fluide. Une boucle qui ne les respecte pas met en risque le matériel et sa garantie. La mise en service est l'étape où cette conformité se prouve, par écrit, avant le raccordement des baies.
+
+### Critères de réception, en pass ou fail
+
+- Particules: Filtre de 5 µm propre en fin de cycle.
+
+- Chimie: pH, conductivité, glycol et inhibiteur aux seuils du fabricant.
+
+- Microbiologie: Charge bactérienne sous le seuil du fabricant.
+
+- Gaz: Points hauts purgés, boucle dégazée.
+
+Notre protocole
+
+## Rinçage, désinfection, remplissage : 6 étapes.
+
+L'étanchéité de la boucle est d'abord prouvée par un essai de pression hydraulique enregistré. Ensuite :
+
+### Préparation
+
+Baies et CDU isolées. Piquages de rinçage et skid mobile mis en place.
+
+### Nettoyage
+
+Dégraissage chimique, selon votre procédure ou la nôtre.
+
+### Rinçage
+
+Par tronçon, par paliers de 100 à 50 puis 5 µm, au-delà du débit nominal.
+
+### Désinfection
+
+Biocide avec un temps de contact maîtrisé, puis rinçage final.
+
+### Remplissage
+
+Fluide prémélangé, par exemple du PG25, rempli par le point bas, puis purge et dégazage.
+
+### Analyse
+
+Analyse en laboratoire avant le raccordement des baies, et procès-verbal signé.
+
+Niveaux de commissioning
+
+## De L1 à L5.
+
+La mise en service d'un data center s'organise en général en 5 niveaux. Nous conduisons la boucle à travers chacun d'eux, des contrôles des équipements avant leur expédition jusqu'à l'essai intégré de la boucle avec le reste du site.
+
+Niveau | Ce qui est vérifié | 
+
+L1 | Essais en usine des équipements, avant expédition. | 
+
+L2 | Contrôles à la livraison et à l'installation sur site. | 
+
+L3 | Mise en route de chaque équipement. | 
+
+L4 | Essais de performance fonctionnelle de chaque système. | 
+
+L5 | Essai intégré des systèmes, avec le reste du site. | 
+
+Handover
+
+## Ce que vous recevez à la fin du chantier.
+
+Chaque chantier se termine par un handover complet, pour que l'exploitant sache exactement ce qu'il reçoit, et pour que chaque engagement puisse être vérifié sur pièce.
+
+- La traçabilité raccord par raccord: Chaque raccord identifié, avec qui l'a réalisé, quand, et pour quel résultat.
+
+- Les procès-verbaux d'essais: L'essai de pression enregistré, les résultats du rinçage et les essais de réception de l'instrumentation.
+
+- Une analyse d'eau datée: La qualité du fluide à la réception, établie par un laboratoire.
+
+- Les plans as-built: La boucle telle qu'elle a été réellement construite, et non telle qu'elle a été dessinée au départ.
+
+- Les procédures d'exploitation: Procédures d'exploitation courante et d'urgence, remises avec la boucle.
+
+## Questions sur la mise en service.
+
+### Comment rince-t-on une boucle de liquid cooling avant sa mise en route ?
+
+Les baies et les CDU sont isolées, la boucle est dégraissée chimiquement, puis rincée tronçon par tronçon à travers des filtres de plus en plus fins, de 100 à 50 puis 5 µm, à un débit supérieur au débit nominal. Elle est ensuite désinfectée avec un biocide, rincée, remplie de fluide prémélangé par le point bas, purgée et dégazée. Une analyse en laboratoire est faite avant le raccordement des baies.
+
+### Pourquoi rincer une boucle qui vient d'être posée ?
+
+Une boucle qui vient d'être installée contient des particules, de la graisse et des résidus de chantier. En direct liquid cooling, le fluide traverse des cold plates aux canaux très fins : des particules peuvent les boucher, et une mauvaise chimie peut les corroder. Le rinçage, la désinfection et l'analyse prouvent que le fluide respecte les exigences du fabricant du matériel avant le raccordement des baies.
+
+### Que contient le dossier de handover ?
+
+La traçabilité raccord par raccord, les procès-verbaux de l'essai de pression et des essais de réception, une analyse d'eau datée, les plans as-built et les procédures d'exploitation.
+
+## Une boucle à mettre en service ?
+
+Nous pouvons mettre en service une boucle que nous avons installée, ou intervenir sur un design déjà arrêté.
+
+---
+
+# Monitoring et maintenance des boucles de liquid cooling
+
+URL: https://www.coreflowdc.com/fr/services/maintenance/
+Language: fr
+
+Après la mise en service, nous assurons le monitoring de la température, de la pression, du débit et des fuites, et la maintenance de la boucle pendant toute sa durée de vie : préventif, analyses d'eau et astreinte.
+
+## Une boucle n'est pas terminée le jour de sa mise en route.
+
+Une boucle fermée évolue avec le temps. L'inhibiteur de corrosion se consomme, l'eau chaude favorise le développement bactérien, les filtres se chargent, l'air s'accumule aux points hauts. Rien de tout cela ne se voit depuis la salle, jusqu'au jour où une température monte ou un débit chute.
+
+Le monitoring et la maintenance gardent la boucle dans l'état où elle était à la réception, et en gardent la preuve.
+
+### Ce que nous suivons
+
+- Température, pression et débit: Remontés à votre BMS.
+
+- Fuites: Détection de fuite zonée, avec isolement baie par baie.
+
+- Chimie du fluide: Suivie dans le temps, selon vos seuils et ceux du fabricant.
+
+Contrat de maintenance
+
+## 3 briques, à combiner.
+
+### Préventif
+
+Perte de charge des filtres, purge d'air, raccords et supportages, étalonnage des sondes.
+
+### Analyses d'eau
+
+pH, conductivité, concentration en glycol et en inhibiteur, charge bactérienne, selon vos seuils et ceux du fabricant du matériel.
+
+### Astreinte
+
+Un délai d'intervention fixé au contrat. En cas de fuite ou de flexible endommagé en manutention : consignation, réparation et remise en eau tracée. Un stock de pièces est dimensionné avec vous.
+
+## Pour les exploitants, et pour les fabricants de refroidissement.
+
+### En direct pour l'exploitant
+
+Les clouds IA et les data centers d'entreprise peuvent nous confier la boucle après la mise en service. Sur une boucle que nous avons livrée, l'équipe qui la maintient sait comment elle a été conçue, construite et mise en service.
+
+### En 2e rideau du fabricant
+
+Les fabricants de refroidissement peuvent s'appuyer sur nous comme partenaire local pour la maintenance de leurs équipements installés en Europe.
+
+## Questions sur la maintenance.
+
+### Que comprend la maintenance d'un liquid cooling ?
+
+3 briques qui se combinent : le préventif de la boucle (perte de charge des filtres, purge d'air, raccords et supportages, étalonnage des sondes), les analyses d'eau (pH, conductivité, concentration en glycol et en inhibiteur, charge bactérienne) et l'astreinte, avec un délai d'intervention fixé au contrat.
+
+### Pourquoi analyser le fluide dans la durée ?
+
+Dans une boucle fermée, l'inhibiteur de corrosion se consomme et l'eau chaude favorise le développement bactérien. Une analyse régulière du pH, de la conductivité, de la concentration en glycol et en inhibiteur et de la charge bactérienne révèle une dérive tôt, avant qu'elle n'abîme les cold plates ou ne réduise le débit.
+
+### Que se passe-t-il en cas de fuite ?
+
+L'équipe d'astreinte intervient dans le délai fixé au contrat : le tronçon concerné est consigné, réparé, puis remis en eau, et la remise en eau est tracée. Un stock de pièces de rechange est dimensionné à l'avance avec le client.
+
+## Une boucle à garder dans ses spécifications ?
+
+Parlez-nous de votre installation et de vos niveaux de service. Nous construisons le contrat à partir des 3 briques.
+
+---
+
+# Une équipe de services en liquid cooling, indépendante des fabricants
+
+URL: https://www.coreflowdc.com/fr/a-propos/
+Language: fr
+
+CoreFlow a été fondé en 2026 pour faire une chose : prendre en charge la boucle de liquid cooling des data centers européens, du design à la maintenance, avec un seul partenaire responsable de bout en bout.
+
+## Pourquoi CoreFlow existe.
+
+Les baies IA de dernière génération consomment plus de 100 kW chacune et ne se refroidissent plus à l'air. Le liquid cooling est devenu une obligation, et chaque nouveau cluster GPU arrive avec une boucle de tuyauterie, de CDU et de manifolds qu'il faut concevoir, construire, nettoyer et garder dans ses spécifications pendant des années.
+
+Cette boucle se trouve à la frontière de plusieurs métiers. Le data center livre son eau, le fabricant du matériel fixe ses exigences, et le travail qui les sépare est réparti entre plusieurs sociétés. Pourtant, une fuite ou un défaut de qualité du fluide, c'est un arrêt de production et des GPU endommagés, sur des baies qui valent chacune plusieurs millions de dollars.
+
+CoreFlow est une société de services construite pour cette boucle. Nous intervenons le plus en amont possible, avec le design ou sa revue. Nous fournissons et installons les CDU, la tuyauterie, le calorifuge, les manifolds pré-assemblés et les capteurs. Nous rinçons, désinfectons, éprouvons et mettons en service la boucle. Puis nous en assurons le monitoring et la maintenance.
+
+Nos premiers chantiers sont en préparation.
+
+Notre façon de travailler
+
+## 3 principes.
+
+### Une seule équipe responsable
+
+Pas une chaîne de sous-traitants. Design, installation, mise en service et maintenance répondent aux mêmes personnes, du premier plan jusqu'aux années d'exploitation.
+
+### Les mêmes procédures écrites
+
+D'un site à l'autre, partout en Europe : les mêmes méthodes, les mêmes critères de réception, le même dossier de handover.
+
+### Des preuves, pas des déclarations
+
+Un essai de pression enregistré, une traçabilité raccord par raccord, une analyse d'eau datée. Ce que nous garantissons se vérifie.
+
+Notre savoir-faire
+
+## L'expérience du cooling d'un hyperscaler, au service de votre boucle.
+
+Notre équipe vient des équipes cooling d'un hyperscaler européen, où elle a conçu, construit, converti et maintenu des systèmes de refroidissement à grande échelle.
+
+### Plus de 50 projets de cooling
+
+Construction neuve, rétrofit et passage de l'air au liquide, dont 3 déploiements de direct liquid cooling en 2025 et 2026.
+
+### La qualité d'eau depuis 2012
+
+L'ingénierie du traitement des eaux, la discipline qui garde une boucle liquide propre et dans ses spécifications pendant des années.
+
+### Des référentiels écrits par nous
+
+Le référentiel de maintenance et celui de la qualité d'eau des sites d'un hyperscaler européen ont été écrits par notre équipe.
+
+En bref
+
+## CoreFlow en 3 faits.
+
+2026Fondé à Paris par Benjamin Charbit.
+
+EuropeDes chantiers dans toute l'Europe, avec les mêmes procédures écrites sur chaque site.
+
+IndépendantUne équipe de services, liée à aucun fabricant de refroidissement.
+
+## Envie de parler d'un projet ?
+
+Nous échangeons volontiers sur un déploiement à n'importe quel stade, de la première idée à une boucle déjà en exploitation.
+
+---
+
+# Questions fréquentes
+
+URL: https://www.coreflowdc.com/fr/faq/
+Language: fr
+
+Des réponses directes sur ce que fait CoreFlow, sur notre périmètre, et sur la façon dont une boucle de liquid cooling se conçoit, s'installe, se met en service et se maintient.
+
+## CoreFlow
+
+### Que fait CoreFlow ?
+
+CoreFlow prend en charge le liquid cooling des data centers européens du design à la maintenance : toute la boucle entre l'eau du data center et les baies, CDU comprises, avec un seul partenaire responsable de bout en bout. Nous concevons ou validons le design en BIM 3D, nous fournissons et installons les CDU, les manifolds pré-assemblés, la tuyauterie et le calorifuge, puis nous rinçons, éprouvons et mettons en service la boucle avec un dossier qualité complet, et nous en assurons le monitoring et la maintenance pendant toute sa durée de vie.
+
+### CoreFlow est-il un fabricant de matériel de refroidissement ?
+
+Non. CoreFlow est une équipe de services, pas un vendeur de produits, et reste indépendant des fabricants de refroidissement. Nous fournissons et installons des CDU et des composants dans le cadre d'un projet, choisis pour ce projet.
+
+### Pour qui CoreFlow travaille-t-il ?
+
+Pour les clouds IA et les data centers d'entreprise, en direct. Et pour les fabricants de refroidissement, comme partenaire local de 2e rideau pour la maintenance.
+
+### Où CoreFlow intervient-il ?
+
+CoreFlow est basé à Paris et intervient sur des projets de data centers dans toute l'Europe, avec les mêmes procédures écrites d'un site à l'autre.
+
+### Qui a fondé CoreFlow ?
+
+CoreFlow a été fondé en 2026 par Benjamin Charbit, qui dirige la société comme Fondateur et Directeur Général. Ses premiers chantiers sont en préparation.
+
+## Périmètre
+
+### Quelle partie du refroidissement CoreFlow prend-il en charge ?
+
+Toute la boucle entre l'eau du data center et les baies, CDU comprises : les CDU en rangée ou en démarcation, la tuyauterie inox, le calorifuge, les manifolds pré-assemblés, les capteurs et le raccordement à chaque baie. Voir le périmètre élément par élément.
+
+### CoreFlow prend-il en charge le primaire ?
+
+Oui, en option. Nous pouvons prendre le primaire, côté eau du data center, pour que le client n'ait qu'un seul interlocuteur.
+
+### CoreFlow fournit-il les CDU ?
+
+Oui. Nous choisissons les CDU et leur redondance avec le client, puis nous les fournissons, les installons et les mettons en service.
+
+### CoreFlow intervient-il sur les serveurs et les cold plates ?
+
+Non. Les serveurs et les cold plates restent au fabricant du matériel ou à l'intégrateur. Nous raccordons la boucle à chaque baie et nous la mettons en service selon les exigences du fabricant du matériel sur la propreté et la chimie du fluide.
+
+## Travailler avec CoreFlow
+
+### Quand faire intervenir CoreFlow ?
+
+Le plus tôt possible. Nous planifions à rebours depuis la date de livraison du matériel, pour que la boucle soit prête à l'arrivée des baies. Le design est souvent sur le chemin critique d'un déploiement en liquid cooling.
+
+### CoreFlow peut-il travailler à partir d'un design existant ?
+
+Oui. Quand le design est déjà arrêté, nous intervenons sur l'exécution seule, de l'installation à la mise en service et au handover, après une revue du design.
+
+### CoreFlow peut-il intervenir dans un data center qui reste en exploitation ?
+
+Oui. Les extensions et les passages de l'air au liquide se font sur des sites en exploitation, avec un mode opératoire par intervention, intégré au change management de l'exploitant, et un risque de fuite maîtrisé par des bacs de rétention, une détection zonée et un isolement baie par baie.
+
+### De quoi CoreFlow a-t-il besoin pour chiffrer ?
+
+Du nombre de baies et de la puissance par baie, des températures et du delta T de l'hébergeur et du fabricant du matériel, de la configuration et de la redondance des CDU, des plans de salle et des distances, des règles d'accès, et du fluide spécifié avec les exigences du fabricant. La liste complète est sur la page contact.
+
+## Mise en service et qualité
+
+### Comment met-on en service une boucle de liquid cooling ?
+
+L'étanchéité de la boucle est prouvée par un essai de pression enregistré. La boucle est ensuite nettoyée chimiquement, rincée tronçon par tronçon à travers des filtres de 100 à 50 puis 5 µm, désinfectée, remplie de fluide prémélangé, purgée et dégazée. Une analyse en laboratoire est faite avant le raccordement des baies. La réception se fait en pass ou fail. Voir la mise en service en détail.
+
+### Que garantit CoreFlow ?
+
+L'étanchéité de la boucle, prouvée par un essai de pression enregistré. La conformité au design approuvé, raccord par raccord. La qualité du montage et de la vannerie, avec chaque raccord tracé. L'instrumentation et les essais de réception, en pass ou fail. Et la qualité d'eau à la réception, par une analyse datée.
+
+### Que reçoit-on au handover ?
+
+Un dossier qualité complet : la traçabilité raccord par raccord, les procès-verbaux d'essais, une analyse d'eau datée, les plans as-built et les procédures d'exploitation.
+
+## Maintenance
+
+### Que comprend la maintenance ?
+
+3 briques qui se combinent : le préventif de la boucle, les analyses d'eau, et l'astreinte avec un délai d'intervention fixé au contrat. La température, la pression, le débit et les fuites font l'objet d'un monitoring, remonté au BMS du client.
+
+### CoreFlow peut-il maintenir des équipements pour le compte d'un fabricant de refroidissement ?
+
+Oui. CoreFlow peut intervenir comme partenaire local de 2e rideau d'un fabricant de refroidissement, pour la maintenance de ses équipements installés en Europe.
+
+Vous cherchez une définition ? Consultez le glossaire du liquid cooling.
+
+## Une question qui n'est pas ici ?
+
+Écrivez-nous. Nous répondons aux questions sur un projet, à n'importe quel stade.
+
+---
+
+# Glossaire du liquid cooling
+
+URL: https://www.coreflowdc.com/fr/glossaire/
+Language: fr
+
+Les mots d'un projet de refroidissement liquide, définis simplement. De la cold plate posée sur le processeur à l'analyse d'eau remise à la réception.
+
+- Biocide
+
+- BIM
+
+- BMS
+
+- Boucle primaire et secondaire
+
+- Calorifuge
+
+- CDU
+
+- CDU en rangée et CDU en baie
+
+- Cold plate
+
+- Delta T
+
+- Détection de fuite
+
+- Direct liquid cooling
+
+- Dossier de handover
+
+- Eau du data center
+
+- Essai de pression
+
+- Inhibiteur de corrosion
+
+- Manifold
+
+- Mise en service
+
+- MOP, SOP, EOP
+
+- P&ID
+
+- PG25
+
+- Plans as-built
+
+- Point de démarcation
+
+- Qualité d'eau
+
+- Raccord rapide
+
+- Rinçage
+
+- Technology cooling system
+
+### Biocide
+
+Produit chimique qui détruit les bactéries et les autres micro-organismes. Une boucle est désinfectée avec un biocide pendant la mise en service, avec un temps de contact maîtrisé, parce que l'eau chaude favorise un développement bactérien qui peut boucher les filtres et les cold plates.
+
+### BIM Building information modelling
+
+Maquette 3D d'un bâtiment et de ses équipements, dans laquelle chaque objet porte ses données : diamètre, matériau, référence. En liquid cooling, la boucle est conçue en BIM 3D dans la salle réelle, pour que les conflits avec les baies, les planchers et les équipements existants soient trouvés avant l'installation.
+
+### BMS Building management system
+
+Système de supervision d'un bâtiment, aussi appelé GTB, qui collecte les mesures de ses équipements techniques et déclenche les alarmes. Les capteurs de température, de pression, de débit et de fuite d'une boucle de liquid cooling y sont remontés, parfois avec un DCIM, l'outil qui supervise les salles informatiques.
+
+### Boucle primaire et boucle secondaire
+
+En liquid cooling, le primaire désigne en général le côté eau du data center de la CDU, et le secondaire le côté qui dessert les baies. Le sens de ces mots varie d'une société à l'autre : il est plus sûr de décrire la boucle physique, de l'eau du data center jusqu'aux baies.
+
+### Calorifuge
+
+Isolant qui recouvre la tuyauterie pour éviter la condensation sur les surfaces froides et limiter les échanges de chaleur avec la salle. La pose du calorifuge s'appelle le calorifugeage.
+
+### CDU Coolant distribution unit
+
+Unité qui sépare l'eau du data center de la boucle qui dessert le matériel informatique, et qui transfère la chaleur de l'une à l'autre. Une CDU contient un échangeur, des pompes, une filtration et une régulation. Elle règle le débit, la température et la pression du fluide envoyé vers les baies. Voir aussi CDU en rangée et CDU en baie.
+
+### CDU en rangée et CDU en baie In-row, in-rack
+
+Une CDU en rangée est une armoire placée dans la rangée de baies, qui en dessert plusieurs par la tuyauterie et les manifolds. Une CDU en baie est installée dans une baie et ne dessert que celle-ci. Des CDU plus puissantes peuvent aussi être placées en bord de salle, au point de démarcation.
+
+### Cold plate Plaque froide
+
+Plaque métallique parcourue de canaux très fins, montée directement sur un processeur ou un autre composant chaud. Le fluide traverse la plaque et emporte la chaleur. Parce que ses canaux sont très fins, une cold plate est sensible aux particules et à la chimie du fluide.
+
+### Delta T ΔT
+
+Écart entre la température de retour et la température d'aller du fluide. Avec le débit, il détermine la quantité de chaleur que la boucle évacue. L'hébergeur et le fabricant du matériel fixent chacun leurs limites de température, et le design doit satisfaire les 2.
+
+### Détection de fuite
+
+Câbles détecteurs ou sondes ponctuelles placés sous la tuyauterie, dans les bacs de rétention et aux raccordements, qui déclenchent une alarme au contact d'un liquide. La détection est zonée, pour localiser la fuite et isoler le tronçon concerné.
+
+### Direct liquid cooling DLC, direct-to-chip
+
+Méthode de refroidissement dans laquelle un liquide est amené jusqu'à des cold plates montées sur les composants les plus chauds d'un serveur, comme les GPU et les CPU. Le liquide évacue l'essentiel de la chaleur, l'air évacue le reste. C'est la méthode des baies IA de dernière génération, qui consomment plus de 100 kW chacune.
+
+### Dossier de handover
+
+Ensemble des documents remis à l'exploitant à la fin d'un chantier. Chez CoreFlow, il contient la traçabilité raccord par raccord, les procès-verbaux d'essais, une analyse d'eau datée, les plans as-built et les procédures d'exploitation.
+
+### Eau du data center Facility water system, FWS
+
+Boucle d'eau du bâtiment, qui amène l'eau de refroidissement depuis la production de froid (groupes froids, dry coolers ou tours de refroidissement) jusqu'aux CDU. Le terme FWS vient des recommandations de l'ASHRAE sur le refroidissement liquide.
+
+### Essai de pression
+
+Essai dans lequel la boucle est mise sous une pression supérieure à sa pression de service et maintenue pendant une durée fixée, la pression étant enregistrée. Une pression stable prouve l'étanchéité de la boucle avant son remplissage.
+
+### Inhibiteur de corrosion
+
+Additif qui protège les métaux de la boucle contre la corrosion. Il se consomme avec le temps : sa concentration est donc mesurée régulièrement pendant la maintenance.
+
+### Manifold Collecteur
+
+Pièce qui distribue le fluide de la tuyauterie vers plusieurs sorties et collecte le retour. Les manifolds de rangée desservent les baies, les manifolds de baie desservent les serveurs. Un manifold peut être pré-assemblé avant d'entrer en salle.
+
+### Mise en service Commissioning
+
+Ensemble des contrôles et des essais qui prouvent qu'une installation fonctionne comme prévu avant son entrée en exploitation. Dans un data center, elle s'organise en général en 5 niveaux, de L1 (essais en usine) à L5 (essai intégré des systèmes). Pour une boucle de liquid cooling, elle comprend l'essai de pression, le nettoyage, le rinçage, la désinfection, le remplissage et l'analyse du fluide. Voir comment CoreFlow met une boucle en service.
+
+### MOP, SOP, EOP
+
+Les 3 types de procédures écrites d'un data center. Le mode opératoire (MOP, method of procedure) décrit une intervention précise, étape par étape, et il est approuvé par le change management de l'exploitant. La procédure d'exploitation courante (SOP) décrit le fonctionnement habituel. La procédure d'urgence (EOP) décrit la conduite à tenir en cas d'incident, par exemple une fuite.
+
+### P&ID Piping and instrumentation diagram
+
+Schéma qui montre chaque tube, chaque vanne, chaque pompe et chaque capteur d'une boucle, et la façon dont ils sont reliés. C'est le document de référence du design.
+
+### PG25
+
+Fluide caloporteur à base d'eau, qui contient 25 % de propylène glycol, avec des inhibiteurs de corrosion et des biocides. Il est couramment spécifié par les fabricants de matériel pour les boucles de direct liquid cooling, et il est livré prémélangé.
+
+### Plans as-built Plans de récolement
+
+Plans mis à jour à la fin d'un chantier pour montrer l'installation telle qu'elle a été réellement construite, avec toutes les modifications faites sur site. Ils font partie du dossier de handover et servent de référence à l'exploitation et à la maintenance.
+
+### Point de démarcation
+
+Frontière physique convenue entre ce que fournit l'exploitant du data center et ce qui relève du client ou du côté informatique. En liquid cooling, c'est souvent une CDU ou une paire de piquages vannés sur l'eau du data center.
+
+### Qualité d'eau
+
+Ensemble des paramètres que le fluide doit garder dans des limites : particules, pH, conductivité, concentration en glycol et en inhibiteur, charge bactérienne. Les limites sont fixées par le fabricant du matériel. La qualité d'eau est prouvée par une analyse en laboratoire à la réception, puis suivie pendant la maintenance.
+
+### Raccord rapide Quick disconnect
+
+Raccord qui relie un serveur ou une baie à un manifold et qui se débranche sans vidanger la boucle, presque sans goutte. Ses passages internes étroits le rendent sensible aux particules.
+
+### Rinçage Flushing
+
+Circulation d'eau dans une boucle qui vient d'être posée, à un débit supérieur au débit nominal et à travers des filtres de plus en plus fins, pour retirer les particules, la graisse et les résidus de chantier. Le rinçage se fait avant le raccordement des baies.
+
+### Technology cooling system TCS
+
+Dans les recommandations de l'ASHRAE sur le refroidissement liquide, boucle qui transporte le fluide traité entre la CDU et le matériel informatique. Selon la position de la CDU, elle traverse la salle ou reste à l'intérieur d'une baie.
+
+## De la définition au chantier.
+
+Voyez comment ces termes s'assemblent dans une vraie boucle, du design à la maintenance.
+
+---
+
+# Parlez-nous de votre projet
+
+URL: https://www.coreflowdc.com/fr/contact/
+Language: fr
+
+Un déploiement à préparer, un design à faire relire, une boucle à maintenir : écrivez-nous avec ce que vous avez.
+
+Nous écrire
+contact@coreflowdc.com
+
+Kevin Compagnon, Head of Sales, est votre interlocuteur. Nous travaillons en français et en anglais.
+
+CoreFlow, Paris. Chantiers dans toute l'Europe.
+
+## Comment démarre un projet.
+
+### Confidentialité
+
+Un accord signé, pour que nous puissions recevoir vos plans.
+
+### Visite du site
+
+Relevés, accès, règles de travail.
+
+### Spécifications et plans
+
+Design du pod, températures, fluide.
+
+### Remise d'offre
+
+Design, planning, prix et responsabilités.
+
+Pour chiffrer
+
+## Ce dont nous avons besoin.
+
+Il n'est pas nécessaire de tout avoir pour engager la conversation. Voici la liste que nous parcourons ensemble.
+
+### Puissance et températures
+
+- Nombre de baies, kW par baie
+- Températures et delta T, hébergeur et fabricant du matériel
+- Configuration des CDU, type de redondance
+
+### Implantation
+
+- Plans de salle et distances
+- Faux plancher ou plafond
+- Accès, MOP et change management
+
+### Fluide et exploitation
+
+- Fluide spécifié, exigences du fabricant
+- Votre procédure de rinçage, si vous en avez une
+- BMS, DCIM et outil qualité

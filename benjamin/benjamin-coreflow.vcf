@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Charbit;Benjamin;;;
+FN:Benjamin Charbit
+ORG:CoreFlow
+TITLE:CEO
+TEL;TYPE=CELL:+33689229641
+EMAIL;TYPE=WORK:benjamin@coreflowdc.com
+URL:https://www.coreflowdc.com/
+NOTE:Liquid cooling for data centers\, from design to maintenance.
+END:VCARD

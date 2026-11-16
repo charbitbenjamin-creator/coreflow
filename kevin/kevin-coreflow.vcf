@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Compagnon;Kevin;;;
+FN:Kevin Compagnon
+ORG:CoreFlow
+TITLE:Head of Sales
+TEL;TYPE=CELL:+33759105248
+TEL;TYPE=CELL;TYPE=WORK:+14243326520
+EMAIL;TYPE=WORK:kevin@coreflowdc.com
+URL:https://www.coreflowdc.com/
+NOTE:Liquid cooling for data centers\, from design to maintenance.
+END:VCARD

@@ -1,0 +1,35 @@
+# CoreFlow
+
+> CoreFlow is a European service company that delivers liquid cooling for AI data centers from design to maintenance: the full loop between the facility water and the racks, CDUs included, with a single partner accountable end to end.
+
+Key facts: CoreFlow is a service team, not a product vendor, and is independent of cooling manufacturers. It designs or reviews the liquid cooling loop in 3D BIM, supplies and installs CDUs, stainless pipework, insulation, pre-assembled manifolds and sensors, flushes, pressure-tests and commissions the loop, hands over a full quality dossier (joint-by-joint traceability, test reports, as-built drawings), then monitors and maintains the loop for the life of the system. The primary loop is an optional part of the scope. Customers: AI clouds, enterprise data centers, and cooling manufacturers who need a local second line for maintenance. CoreFlow was founded in 2026 by Benjamin Charbit, is based in Paris, France, and works across Europe. Contact: contact@coreflowdc.com.
+
+## Pages in English
+
+- [CoreFlow | Liquid cooling for European AI data centers](https://www.coreflowdc.com/): CoreFlow delivers liquid cooling for European AI data centers from design to maintenance: the full loop from facility water to racks, CDUs included.
+- [Liquid cooling services for data centers | CoreFlow](https://www.coreflowdc.com/services/): Design, supply and installation, commissioning, monitoring and maintenance of data center liquid cooling loops, CDUs included. One accountable partner.
+- [Liquid cooling design and design review | CoreFlow](https://www.coreflowdc.com/services/design/): CoreFlow designs data center liquid cooling loops in 3D BIM: CDU selection and redundancy, routing, hydraulic sizing, instrumentation. Or reviews your design.
+- [CDU and liquid cooling pipework installation | CoreFlow](https://www.coreflowdc.com/services/installation/): CoreFlow supplies and installs CDUs, stainless pipework, insulation, pre-assembled manifolds and sensors for data center liquid cooling, including on live sites.
+- [Liquid cooling flushing and commissioning | CoreFlow](https://www.coreflowdc.com/services/commissioning/): Pressure testing, staged flushing, disinfection, filling and lab analysis of data center liquid cooling loops, with pass or fail criteria and a full handover.
+- [Liquid cooling monitoring and maintenance | CoreFlow](https://www.coreflowdc.com/services/maintenance/): Monitoring of temperature, pressure, flow and leaks, preventive maintenance, water analysis and on-call support for data center liquid cooling loops in Europe.
+- [About CoreFlow | Liquid cooling service team in Europe](https://www.coreflowdc.com/about/): CoreFlow is a European service company founded in 2026 by Benjamin Charbit. An independent team that designs, installs, commissions and maintains liquid cooling.
+- [Liquid cooling FAQ for data centers | CoreFlow](https://www.coreflowdc.com/faq/): Answers about CoreFlow and data center liquid cooling: scope, CDUs, design, installation on live sites, flushing, commissioning, handover and maintenance.
+- [Data center liquid cooling glossary | CoreFlow](https://www.coreflowdc.com/glossary/): Plain definitions of data center liquid cooling terms: CDU, direct liquid cooling, cold plate, manifold, flushing, pressure test, PG25, commissioning and more.
+- [Contact CoreFlow | Liquid cooling for data centers](https://www.coreflowdc.com/contact/): Contact CoreFlow about a data center liquid cooling project in Europe: design, installation, commissioning or maintenance. What we need to prepare a quote.
+
+## Pages en français
+
+- [CoreFlow | Liquid cooling des data centers IA en Europe](https://www.coreflowdc.com/fr/): CoreFlow prend en charge le liquid cooling des data centers européens, du design à la maintenance : toute la boucle jusqu'aux baies, CDU comprises.
+- [Services de liquid cooling pour data centers | CoreFlow](https://www.coreflowdc.com/fr/services/): Design, fourniture et installation, mise en service, monitoring et maintenance du refroidissement liquide des data centers, CDU comprises. Un seul partenaire.
+- [Design de liquid cooling et revue de design | CoreFlow](https://www.coreflowdc.com/fr/services/conception/): CoreFlow conçoit les boucles de refroidissement liquide des data centers en BIM 3D : choix et redondance des CDU, tracé, dimensionnement, instrumentation.
+- [Installation de CDU et de tuyauterie liquid cooling | CoreFlow](https://www.coreflowdc.com/fr/services/installation/): CoreFlow fournit et installe les CDU, la tuyauterie inox, le calorifuge, les manifolds pré-assemblés et les capteurs du refroidissement liquide des data centers.
+- [Rinçage et mise en service du liquid cooling | CoreFlow](https://www.coreflowdc.com/fr/services/mise-en-service/): Essai de pression, nettoyage, rinçage étagé, désinfection, remplissage et analyse des boucles de refroidissement liquide, avec critères pass ou fail et handover.
+- [Monitoring et maintenance du liquid cooling | CoreFlow](https://www.coreflowdc.com/fr/services/maintenance/): Monitoring de la température, de la pression, du débit et des fuites, préventif, analyses d'eau et astreinte pour le refroidissement liquide des data centers.
+- [À propos de CoreFlow | Équipe de services liquid cooling](https://www.coreflowdc.com/fr/a-propos/): CoreFlow est une société de services européenne fondée en 2026 par Benjamin Charbit : une équipe indépendante qui conçoit, installe et maintient le liquid cooling.
+- [FAQ liquid cooling des data centers | CoreFlow](https://www.coreflowdc.com/fr/faq/): Réponses sur CoreFlow et le refroidissement liquide des data centers : périmètre, CDU, design, sites en exploitation, rinçage, mise en service, maintenance.
+- [Glossaire du liquid cooling des data centers | CoreFlow](https://www.coreflowdc.com/fr/glossaire/): Définitions simples du refroidissement liquide des data centers : CDU, direct liquid cooling, cold plate, manifold, rinçage, essai de pression, PG25.
+- [Contacter CoreFlow | Liquid cooling des data centers](https://www.coreflowdc.com/fr/contact/): Contactez CoreFlow pour un projet de refroidissement liquide de data center en Europe : design, installation, mise en service ou maintenance.
+
+## Optional
+
+- [Full text of the site](https://www.coreflowdc.com/llms-full.txt): every page in plain text, English and French.
